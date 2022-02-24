@@ -271,20 +271,20 @@ position:relative;
 .thumb-img a{
 display:block;
 background:#000;
--webkit-transform: scale(1,1);
+/* -webkit-transform: scale(1,1);
     -webkit-transition-timing-function: ease-out;
     -webkit-transition-duration: 250ms;
     -moz-transform: scale(1,1);
     -moz-transition-timing-function: ease-out;
-    -moz-transition-duration: 250ms;  
+    -moz-transition-duration: 250ms;   */
 }
 .thumb-img a:hover{
- -webkit-transform: scale(1.05,1.07);
+ /* -webkit-transform: scale(1.05,1.07);
     -webkit-transition-timing-function: ease-out;
     -webkit-transition-duration: 250ms;
     -moz-transform: scale(1.05,1.07);
     -moz-transition-timing-function: ease-out;
-    -moz-transition-duration: 250ms;   
+    -moz-transition-duration: 250ms;    */
 }
 .thumb-img a:hover img{
  opacity:0.7;   
