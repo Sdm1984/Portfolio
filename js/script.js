@@ -66,7 +66,7 @@ $('.navbar-nav').onePageNav({
 	if($().prettyPhoto) {
 	
 		lightboxPhoto(); 
-        imgHover();
+        // imgHover();
 	} 			
     
 
@@ -124,7 +124,7 @@ if ($().quicksand) {
 		}, function () {
         
             lightboxPhoto();
-       	    imgHover();
+       	    // imgHover();
 			});
 		
 		
@@ -139,7 +139,7 @@ if ($().quicksand) {
  //============================ function =========================================
     $(".navbar").sticky({ topSpacing: 0 });
   $("[data-gal='tooltip']").tooltip();
-imgHover();
+// imgHover();
 lightboxPhoto(); 
 navScroll();
 winHeight();
