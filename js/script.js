@@ -85,7 +85,7 @@ if ($().quicksand) {
 
   // attempt to call Quicksand when a filter option
 	// item is clicked
-	$('#filterOptions li a').click(function(e) {
+	// $('#filterOptions li a').click(function(e) {
 		// reset the active class on all the buttons
 		$('#filterOptions li').removeClass('cur');
 		$('#filterOptions li a').removeClass('cur');
