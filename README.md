@@ -1,17 +1,14 @@
-# Portfolio
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
+# Stephanie Mathis - Portfolio
 
 ## Homework Requirements
 
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
+* Updated portfolio featuring Project 1 and two exemplary homework assignments-listed under My Projects section
 
-* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments - icon listed inline on portfolio page
 
-* Updated resume
+* Updated resume - Download Resume Link included on portfolio under "Get In Touch With Me"
 
-* Updated LinkedIn profile
+* Updated LinkedIn profile - LinkedIn icon listed inline on the bottom of portfolio
 
 ## Grading
 
@@ -48,9 +45,9 @@ Your updated portfolio should:
 
 	* Project title
 
-	* Link to the deployed version
+	* Link to the deployed version - https://sdm1984.github.io/Portfolio/
 
-	* Link to the GitHub repository
+	* Link to the GitHub repository - https://github.com/Sdm1984/Portfolio
 
 	* Screenshot of the deployed application
 
@@ -58,16 +55,26 @@ Your updated portfolio should:
 
 ### Design
 
+<img src="assets/port.png">
+
 Unfortunately, this is where it gets a little bit subjective. Your site should look
 "polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
 
 * Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
+  Credits ** 2014 http://omahpsd.com OmahPSD  All Rights Reserved. **
 
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
+<img src="assets/portpic.png">
+
+
+
+
 ## Updated GitHub Profile 
+<img src="assets/Github.png">
+
 
 Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 

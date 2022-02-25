@@ -124,7 +124,7 @@ if ($().quicksand) {
 		}, function () {
         
             lightboxPhoto();
-       	    // imgHover();
+       	    imgHover();
 			});
 		
 		
