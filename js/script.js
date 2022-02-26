@@ -233,3 +233,9 @@ function winHeight(){
 var wHeight = $(window).height();
 $('.header').height(wHeight); 
 }
+
+$("nav").click((e) => scrollTo(e.target.innerHTML.toLowerCase()));
+
+function scrollTo(hash) {
+  location.hash = "#" + hash;
+}
